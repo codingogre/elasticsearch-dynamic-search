@@ -1,6 +1,6 @@
 {
   "name": "elasticsearch-dynamic-search",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Intelligent hybrid search library for Elasticsearch with dynamic weight adjustment, proper noun detection, and contextual analysis",
   "main": "index.js",
   "keywords": [
@@ -17,7 +17,7 @@
     "query-analysis",
     "weight-balancing"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "codingogre",
   "license": "MIT",
   "dependencies": {
     "@elastic/elasticsearch": "^8.0.0",
@@ -33,12 +33,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/elasticsearch-dynamic-search"
+    "url": "https://github.com/codingogre/elasticsearch-dynamic-search"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/elasticsearch-dynamic-search/issues"
+    "url": "https://github.com/codingogre/elasticsearch-dynamic-search/issues"
   },
-  "homepage": "https://github.com/yourusername/elasticsearch-dynamic-search#readme",
+  "homepage": "https://github.com/codingogre/elasticsearch-dynamic-search#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

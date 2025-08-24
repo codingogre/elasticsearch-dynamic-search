@@ -2,8 +2,8 @@
  * Elasticsearch Dynamic Search Library
  * Intelligent hybrid search with dynamic weight adjustment, proper noun detection, and contextual analysis
  * 
- * @author Your Name
- * @version 1.0.2
+ * @author codingogre
+ * @version 1.0.5
  */
 
 const DynamicSearchEngine = require('./lib/dynamic-search-engine');
