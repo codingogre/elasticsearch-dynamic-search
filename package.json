@@ -1,6 +1,6 @@
 {
   "name": "elasticsearch-dynamic-search",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Intelligent hybrid search library for Elasticsearch with dynamic weight adjustment, proper noun detection, and contextual analysis",
   "main": "index.js",
   "keywords": [
